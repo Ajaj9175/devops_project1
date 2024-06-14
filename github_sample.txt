@@ -1,0 +1,10 @@
+git init - Git repostaory creation 
+git add - move file from untrack to stage 
+git commit -m - to track your file 
+git status - to check status of current branch 
+git restore - to restore deleted file 
+git log - to check all commits and author info 
+git branch - to check your current branch 
+git checkout -b dev - to create new branch dev 
+git config --global user.name - to update username 
+git config --global user.email - to udpate user email id 
