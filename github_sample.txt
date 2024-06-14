@@ -7,4 +7,5 @@ git log - to check all commits and author info
 git branch - to check your current branch 
 git checkout -b dev - to create new branch dev 
 git config --global user.name - to update username 
-git config --global user.email - to udpate user email id 
+git config --global user.email - to udpate user email id
+git clone - to clone reposatory from github to laptop/CLI  
